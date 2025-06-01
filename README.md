@@ -1,4 +1,1 @@
-<column-set gutter="1"><column-unit slot="0"> <br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;<div style="text-align: center"><b><span style="--font-scale: 1.3; line-height: 3.2; color: rgb(0, 1, 0);"><br>
-<br>
-<gallery-freeform mobile-gutter="2rem"><media-item limit-by="width" rotation="0" freeform-scale="27.40" freeform-y="0" freeform-x="36.480121900540254" href="first-page" rel="history" class="linked" freeform-z="1" scale="27.40" hash="T2356486318232471799296975863958" slot="slot-0"></media-item></gallery-freeform><a style="--font-scale: 1.2; line-height: 0.5;" href="first-page" rel="history">CLICK TO OPEN</a></span></b></div></column-unit></column-set>
+Ray's Portfoilo
