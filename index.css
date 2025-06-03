@@ -1,3 +1,11 @@
+[id="T3057851291"].page {
+	min-height: var(--viewport-height);
+}
+
+[id="T3057851291"] .page-content {
+	align-items: flex-start;
+}
+
 @font-face {
   font-family: "I Pix";
   font-weight: 400;
